@@ -1,0 +1,7 @@
+commends: 
+
+npm init --yes (comando que crea el package.json, con config de la app)
+
+npm init i express body-parser mongoose morgan (para instalar las dependencias del servidor)
+
+node server.js (para ejecutar el modulo del servidos node.js)
